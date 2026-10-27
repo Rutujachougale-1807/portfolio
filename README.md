@@ -36,7 +36,7 @@ portfolio/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Rutujachougale-1807
    ```
 
 2. Open the project folder.
@@ -54,8 +54,8 @@ I believe in learning by building and continuously improving my technical skills
 
 ## 📬 Connect With Me
 
-- **GitHub:** [Visit my GitHub profile](https://github.com/)
-- **LinkedIn:** Add your LinkedIn profile link here.
+- **GitHub:** [Visit my GitHub profile](https://github.com/Rutujachougale-1807)
+- **LinkedIn:** https://www.linkedin.com/in/rutuja-chougule-9b66593a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
